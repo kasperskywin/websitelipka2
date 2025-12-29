@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lipkaprodukcja.pl/sitemap.xml
+
+# Blokuj dostep do niepotrzebnych folderow
+Disallow: /img/
